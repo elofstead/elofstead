@@ -1,5 +1,4 @@
 Name: Ethan Lofstead
-
 Email: elofstead@hotmail.com
 
 I am a recent Virgina Tech graduate looking to start a carreer in software development.  All projects are privated to
