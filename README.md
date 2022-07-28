@@ -1,4 +1,4 @@
-Name: Ethan Lofstead
+Name: Emily Lofstead
 
 Email: elofstead@hotmail.com
 
